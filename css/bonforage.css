@@ -1,0 +1,47 @@
+
+/*brand*/
+
+
+.logo {
+	src: url('../img/Bon-Forage.png');
+	width: 207px;
+	height: 213px;
+}
+
+
+/*brand*/
+
+.brand h1, h2, h3, h4, h5, h6 , p, span {
+font-family: 'Muli', sans-serif;
+font-weight: 300;
+color: #FFFFFF;
+letter-spacing: 1px;
+}
+
+/* for nav - toolbar - etc */
+.brand {
+background-color: #4caf50 !important;
+background-image: linear-gradient(180deg, rgba(129, 199, 131, 0.5) 0%, rgba(205, 220, 56, 0.08) 100%) !important;
+height: 112px;
+}
+
+#map-canvas{
+		height: 100%;
+	}
+
+#control{
+
+	}
+
+#control input[type=text]{
+
+			}
+
+.zipSearch{
+	display: none;
+}
+
+/* Popup */
+.markerPop{
+
+}
